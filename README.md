@@ -37,8 +37,4 @@ Contains Coding Boot Camp starter code. <br>
 https://github.com/coding-boot-camp/super-disco
 
 ## Future Issue Resolution Plans
-- Uses Moment.js library
-- Loads with no errors
-- App UI is intuitive and easy to naviate
-- App UI clean and polished
-- App resembles mock-up functionality
+Color code the time blocks to indicate past, present, or future.
