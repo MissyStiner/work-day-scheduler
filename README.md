@@ -33,8 +33,7 @@ WHEN I refresh the page<br>
 THEN the saved events persist
 
 ## Contribution
-Contains Coding Boot Camp starter code. <br>
-https://github.com/coding-boot-camp/super-disco
+Contains Coding Boot Camp starter code from https://github.com/coding-boot-camp/super-disco. Temporary date/time code used from HowToCodeSchool; will be removed when Moment.js issue closed.
 
 ## Future Issue Resolution Plans
 Color code the time blocks to indicate past, present, or future.
