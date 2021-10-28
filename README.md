@@ -15,7 +15,7 @@ https://github.com/MissyStiner/work-day-scheduler
 - JavaScript
 
 ## Mock-Up
-![05-third-party-apis-homework-demo.gif]
+![https://github.com/MissyStiner/work-day-scheduler/blob/main/05-third-party-apis-homework-demo.gif?raw=true]
 
 ## User Story
 AS AN employee with a busy schedule<br>
