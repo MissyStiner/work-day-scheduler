@@ -9,11 +9,6 @@ https://missystiner.github.io/work-day-scheduler/
 ## GitHub URL:
 https://github.com/MissyStiner/work-day-scheduler
 
-## Built With
-- HTML
-- CSS
-- JavaScript
-
 ## Mock-Up
 ![https://github.com/MissyStiner/work-day-scheduler/blob/main/05-third-party-apis-homework-demo.gif?raw=true]
 
